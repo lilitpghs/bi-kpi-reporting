@@ -61,6 +61,8 @@ Average review score by delivery delay (4.3, 3.3, 2.1, 1.7), a Key influencers a
 low reviews, the five product categories with the highest share of low reviews, and freight
 share against review score by category with a trend line.
 
+Late delivery is the main driver of bad reviews. Orders more than 7 days late are about 6 times more likely to get 1–2 stars, and average 1.7 stars against 4.3 for on-time orders. Orders that were never delivered are rated almost as badly. Freight cost shows almost no relationship with review scores.
+
 ![What Drives Bad Reviews](figures/3.png)
 
 ## Data model
