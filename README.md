@@ -43,7 +43,7 @@ and the top five states by revenue.
 - Sao Paulo state leads with R$ 5.2M, more than Rio de Janeiro (R$ 1.8M), Minas Gerais
   (R$ 1.6M), Rio Grande do Sul (R$ 0.7M) and Parana (R$ 0.7M) combined.
 
-![Executive Overview](screenshots/page1_executive_overview.png)
+![Executive Overview](1.png)
 
 ### 2. Delivery Performance
 On-time delivery rate (93%), average delivery days (12.5), late orders (7K) and average days
@@ -54,14 +54,14 @@ below 90% highlighted.
 - About 90 thousand orders arrived on time; roughly 2 thousand were 1-3 days late, 2 thousand
   4-7 days late, 3 thousand more than 7 days late, and 3 thousand were not delivered.
 
-![Delivery Performance](screenshots/page2_delivery_performance.png)
+![Delivery Performance](2.png)
 
 ### 3. What Drives Bad Reviews
 Average review score by delivery delay (4.3, 3.3, 2.1, 1.7), a Key influencers analysis of
 low reviews, the five product categories with the highest share of low reviews, and freight
 share against review score by category with a trend line.
 
-![What Drives Bad Reviews](screenshots/page3_bad_reviews.png)
+![What Drives Bad Reviews](3.png)
 
 ## Data model
 
@@ -137,13 +137,4 @@ days late, and colour rules for conditional formatting.
 - Products with no category in the source data are grouped as "Unknown". They rank second for
   low reviews, but the group mixes unrelated products, so it is not a category in its own right.
 
-## How to open
 
-1. Download the dataset from Kaggle and unzip it.
-2. Open `Olist Delivery and Reviews Dashboard.pbix` in Power BI Desktop.
-3. If the data does not load, go to **Transform data > Data source settings** and point the
-   sources to your folder.
-
-## Author
-
-Lilit Poghosyan
