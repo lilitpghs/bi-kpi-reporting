@@ -37,6 +37,50 @@ A two-page Power BI dashboard analysing **99,000+ orders** from Olist, a Brazili
 
 ---
 
+## Insights for decision-making
+
+The dashboard is built for a marketplace manager or operations lead who needs to decide where to focus. Each insight below links what the data shows to a decision it supports.
+
+1. Prepare logistics before peak season
+
+What the data shows: Revenue peaked in November 2017 (Black Friday), and in the same month on-time delivery fell to 88%. It fell again to 86% and 81% in February–March 2018.
+Decision it supports: Agree extra carrier capacity and warehouse staffing with logistics partners before November. Set more realistic estimated delivery dates during peak weeks so customers aren't promised dates that can't be met.
+
+2. Set regional delivery promises and target the North
+
+What the data shows: Northern states (RR, AP, AM, AL, PA) wait 24–30 days on average, about twice the national average of 12.5 days.
+Decision it supports:
+
+Show region-specific delivery estimates at checkout instead of one national promise.
+Assess regional carriers or local fulfilment hubs for the North.
+Treat these states as an expansion opportunity: faster delivery could unlock demand that slow shipping currently holds back.
+3. Manage seller performance with clear thresholds
+
+What the data shows: Most sellers deliver on time, but a small group with 50+ orders delivers only 70–79% on time, and some are 20–45 days late on average.
+Decision it supports: Use the seller ranking as a monthly watch-list. Set a minimum on-time target (for example 90%), contact sellers below it, and apply consequences such as lower search ranking or a performance review if they don't improve. The list is short, so follow-up takes little effort.
+
+4. Protect and grow the core markets
+
+What the data shows: São Paulo produces 38% of revenue, and the top 5 states produce about 74%.
+Decision it supports: Keep marketing spend and delivery quality highest in SP, RJ and MG, where most revenue is at stake. At the same time, the dependence on one state is a risk, which supports a deliberate plan to grow other regions.
+
+5. Focus on the top categories
+
+What the data shows: Health & Beauty, Watches & Gifts and Bed Bath & Table lead revenue.
+Decision it supports: Prioritise these categories for seller recruitment, promotions and stock availability, especially ahead of peak season.
+
+6. Watch order value, not only order volume
+
+What the data shows: In August 2018 orders grew +3.5% but revenue fell −4.6%, so customers bought more but cheaper orders.
+Decision it supports: Track average order value alongside order count. If the drop continues, test bundles, cross-selling or free-shipping thresholds to raise basket size.
+---
+
+How to use the dashboard
+Monthly business review: the Overview page with its month-on-month indicators shows at a glance whether revenue and orders are moving in the right direction.
+Operations meetings: the Delivery page shows which months, states and sellers need attention.
+Drill-down: the Year and State slicers let a regional manager see the same KPIs for their own area.
+---
+
 ## Dashboard pages
 
 ### 1. Overview
