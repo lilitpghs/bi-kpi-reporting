@@ -79,7 +79,7 @@ Page navigation buttons and synced slicers link the two pages.
 
 ## Data model
 
-![Data model](figures/Model%20View.png)
+![Data model](figures/Data%20Model.png)
 
 - **`olist_orders_dataset`** is the central table, one row per order.
 - **Order items, payments and customers** link to orders on `order_id` and `customer_id`.
