@@ -119,8 +119,10 @@ CALCULATE ( COUNTROWS ( olist_orders_dataset ), olist_orders_dataset[Delivery St
 
 On-Time Delivery % =
 DIVIDE ( [Delivered Orders] - [Late Orders], [Delivered Orders] )
+```
 
 **Revenue Peak**
+```dax
 Revenue Peak = 
 VAR MaxRev =
     MAXX ( ALLSELECTED ( 'Date'[Year-Month], 'Date'[Month Short] ), [Revenue] )
