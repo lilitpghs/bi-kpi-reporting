@@ -73,9 +73,10 @@ Decision it supports: Prioritise these categories for seller recruitment, promot
 
 What the data shows: In August 2018 orders grew +3.5% but revenue fell −4.6%, so customers bought more but cheaper orders.
 Decision it supports: Track average order value alongside order count. If the drop continues, test bundles, cross-selling or free-shipping thresholds to raise basket size.
----
+
 
 How to use the dashboard
+
 Monthly business review: the Overview page with its month-on-month indicators shows at a glance whether revenue and orders are moving in the right direction.
 Operations meetings: the Delivery page shows which months, states and sellers need attention.
 Drill-down: the Year and State slicers let a regional manager see the same KPIs for their own area.
