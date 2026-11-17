@@ -5,10 +5,9 @@ A two-page Power BI dashboard analysing **99,000+ orders** from Olist, a Brazili
 1. **How is the business performing?** Revenue, orders, average order value and customer satisfaction over time, by state and by product category.
 2. **How reliably do orders arrive?** On-time delivery, where delivery is slow, and which sellers are most often late.
 
-![Overview page](screenshots/overview.png)
-![Delivery Performance page](screenshots/delivery_performance.png)
+![Overview page](figures/overview.png)
+![Delivery Performance page](figures/delivery_performance.png)
 
-📄 **[View the full dashboard as PDF](olist_dashboard.pdf)** | 📊 **[Download the .pbix file](bi_project.pbix)**
 
 ---
 
