@@ -6,7 +6,7 @@ A two-page Power BI dashboard analysing **99,000+ orders** from Olist, a Brazili
 2. **How reliably do orders arrive?** On-time delivery, where delivery is slow, and which sellers are most often late.
 
 ![Overview page](figures/Overview.png)
-![Delivery Performance page](figures/Delivery_Performance.png)
+![Delivery Performance page](figures/Delivery Performance.png)
 
 
 ---
