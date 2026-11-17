@@ -5,8 +5,8 @@ A two-page Power BI dashboard analysing **99,000+ orders** from Olist, a Brazili
 1. **How is the business performing?** Revenue, orders, average order value and customer satisfaction over time, by state and by product category.
 2. **How reliably do orders arrive?** On-time delivery, where delivery is slow, and which sellers are most often late.
 
-![Overview page](figures/overview.png)
-![Delivery Performance page](figures/delivery_performance.png)
+![Overview page](figures/Overview.png)
+![Delivery Performance page](figures/Delivery_Performance.png)
 
 
 ---
@@ -65,7 +65,7 @@ Tables used: orders, order items, payments, customers, products, sellers and rev
 
 ## Data model
 
-![Data model](screenshots/data_model.png)
+![Data model](figures/Model View.png)
 
 - **`olist_orders_dataset`** is the central table, with one row per order.
 - **Order items, payments and customers** link to orders on `order_id` / `customer_id`.
