@@ -162,19 +162,3 @@ RETURN
 
 - **Power BI Desktop:** Power Query, data modelling, DAX, report design
 - **Power Query (M):** data cleaning and transformation
-
----
-
-## How to open
-
-1. Download `bi_project.pbix`.
-2. Open it in [Power BI Desktop](https://www.microsoft.com/power-bi/desktop) (free, Windows).
-3. Or view the static version in `olist_dashboard.pdf`.
-
----
-
-## Author
-
-**Lilit Poghosyan**: data analyst based in Amsterdam, with a background in fraud analytics and business intelligence.
-
-[LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE) · [Email](mailto:YOUR-EMAIL)
